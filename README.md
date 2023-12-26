@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Abhinav.
-- 👀 I’m interested in unity game developement.
-- 🌱 I’m currently learning Unity Engine.
-- 💞️ I’m looking to collaborate on small scale game dev.
 - 📫 How to reach me abhinavkumarblog@gmail.com
 
 <!---
